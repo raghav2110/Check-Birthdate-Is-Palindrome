@@ -38,7 +38,6 @@ function dateToStr(date) {
   }
 
   dateStr.year = date.year.toString();
-  console.log(dateStr)
   return dateStr;
 }
 
@@ -155,7 +154,6 @@ function clickHandler(){
 
   if(birthDate !==''){
     var dateList=birthDate.split('-');
-    console.log(dateList)
 
     var date={
       day:dateList[2],
