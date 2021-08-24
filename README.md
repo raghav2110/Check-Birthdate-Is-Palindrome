@@ -4,4 +4,4 @@ It as Vanilla JS based web app that checks whether your birthdate is a palindrom
 
 A palindrome is a word/number which reads the same backward as forward.
 
-Try This App : 
+Try This App : https://check-birthdate-is-palindrome.vercel.app/
